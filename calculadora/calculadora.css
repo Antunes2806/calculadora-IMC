@@ -1,0 +1,32 @@
+body{
+    font-size: 20;
+    background-color: rgb(227, 197, 255);
+    text-align: center;
+    margin-top: 30px;
+}
+h1{
+    font-family: courier,Arial, Helvetica, sans-serif;
+}
+.title {
+    text-align: center;
+    font-family: courier,Arial, Helvetica, sans-serif;
+    border-style: solid;
+    border-color: rgb(147, 78, 212);
+    background-color: rgb(147, 78, 212);
+    font-size: 15px;
+    display: inline-block;
+}
+
+.calcular {
+    width: 250px;
+    border-radius: 20px;
+    border: 5px solid #fff;
+    position: absolute;
+    left: 45%
+}
+
+input{
+    width: 200px;
+    border-radius: 20px;
+
+}
